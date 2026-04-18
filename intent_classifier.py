@@ -7,7 +7,7 @@ import ollama
 # ---------------------------------------------------------------------------
 
 INTENT_PROMPT = """
-ROLE: You are the Orchestration Engine for 'WinVoice', a local Windows AI Agent.
+ROLE: You are the Orchestration Engine for a local Windows AI Agent.
 TASK: Convert a user's natural-language command into a sequence of executable tool steps, returned as JSON.
 
 JSON SCHEMA:
