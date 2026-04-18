@@ -181,7 +181,3 @@ This means a command like *"save to ../../etc/hosts"* is rejected before any dis
 - ✅ **Session memory** — Conversation context is maintained across turns within a session.
 
 ---
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
